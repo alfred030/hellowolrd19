@@ -1,3 +1,4 @@
-<h2> we have gone thru the whoe circle in      this project. </h2>
-<h2> Second  dployment </h2>
-<h2> The third deployment       is ready </h2>
+<h2> Hello, welcome to simple Devops project !! </h2>
+<h2> Data Service Group is your learning partner </h2>
+<h2> Glad to see you here </h2>
+<h2> Good job on learning Devops:wq   </h2>
